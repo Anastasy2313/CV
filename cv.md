@@ -60,7 +60,7 @@ ______________________
 В данный момент учусь в университете СГУ имени Чернышевского на факультете КНиИТ, направление «Математическое обеспечение и администрирование информационных систем»
 
 <p aligh = "center">
- <img src="https://avatars.dzeninfra.ru/get-zen_brief/6404829/pub_63132a15a801f53132781b63_63132a15a801f53132781b64/scale_1200" width="400" height="250" />
+ <img src="./img/sgu.jpg" width="400" height="250" />
 
  ____________________
 
@@ -76,7 +76,7 @@ __________________
 Английский – средний/выше среднего (согласно онлайн-тесту на сайте EFset Logo www.efset.org)
 
 <p aligh = "center">
- <img src="https://outlaw0.github.io/rsschool-cv/assets/img/1639251880628.jpg" width="400" height="250" />
+ <img src="./img/eng-sert.jpg" width="400" height="250" />
 
 Русский - Родной
 
