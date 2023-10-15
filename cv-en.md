@@ -64,29 +64,30 @@ Currently I am studying at the Chernyshevsky State University at the Faculty of 
 
 
 
-## Work experience:
+**Work experience:**
 
 
 No work experience
 
 
 
-__________________
 
 
-## Foreign languages:
+
+**Foreign languages:**
 
 Currently I am studying at the foreign school "Clover" at level B2. 
 
 English – intermediate/upper intermediate (according to the online test on the EFset Logo website www.efset.org)
-
-<p aligh = "center">
- <img src="./img/eng-sert.jpg" width="400" height="250" />
-
-
 
 Russian - Native
 
 
 
 English – intermediate level
+
+
+<p aligh = "center">
+ <img src="./img/eng-sert.jpg" width="400" height="250" />
+
+
