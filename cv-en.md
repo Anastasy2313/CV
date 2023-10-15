@@ -1,5 +1,6 @@
 # ANASTASIA SEMYACHIKINA-GLUSHKOVSKAYA
 ### junior graphic and web designer
+
 ______________________
 
 ## Contact information:
@@ -13,6 +14,7 @@ _Telegram: https://t.me/sevayj_
 [VK](https://vk.com/id224920424_)
 
 [WhatsApp](https://wa.me/89869997659_)
+
 _____________________
 
 ## Briefly About Myself:
@@ -31,7 +33,9 @@ ______________________
 > * CSS
 > * Git, GitHub
 > * English
+
 __________________
+
 ## Code example:
 
 Peak array index KATA from CODEWARS: Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
@@ -59,7 +63,7 @@ Currently I am studying at the Chernyshevsky State University at the Faculty of 
 
 
 
-______________________
+
 ## Work experience:
 
 
